@@ -335,6 +335,10 @@ body {
       display: block;
       width: 100%;
     }
+    .layout .bottom img{
+      display:flex;
+      flex-wrap: wrap;
+    }
   
   }
   ol li {
